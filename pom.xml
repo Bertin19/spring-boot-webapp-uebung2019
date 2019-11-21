@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>spring-boot-webapp-uebung</artifactId>
 	<groupId>thb</groupId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Spring Boot Traditional Sample</name>
 	<description>Spring Boot Traditional Sample</description>
 	<version>1.0-SNAPSHOT</version>
